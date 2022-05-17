@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ljatwork
+- 👀 I’m interested in iOS Swift and Flutter Development
+- 🌱 I’m currently learning Flutter
